@@ -35,4 +35,4 @@
 
 ## ⚡ Fun Fact
 
-> I really enjoy learning new technologies, and getting my feat wet in Elixir and Rust
+- I really enjoy learning new technologies, currently getting my feat wet in Elixir and Rust
